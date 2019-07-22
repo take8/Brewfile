@@ -65,6 +65,7 @@ cask intellij-idea-ce
 cask kindle
 cask mysqlworkbench
 cask postman
+cask slack
 cask staruml
 cask toggl
 cask unity-hub
