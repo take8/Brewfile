@@ -41,13 +41,12 @@ cask java
 cask mono-mdk
 cask opera
 cask skype
-cask sourcetree
-cask tableplus
-cask typora
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask zeplin
+cask staruml
+cask toggl
+cask unity-hub
+cask vagrant-manager
+cask visual-studio
+cask vivaldi
 
 tap rcmdnk/file
 brew brew-file
@@ -65,13 +64,13 @@ cask intellij-idea-ce
 cask kindle
 cask mysqlworkbench
 cask postman
-cask slack
-cask staruml
-cask toggl
-cask unity-hub
-cask vagrant-manager
-cask visual-studio
-cask vivaldi
+cask sourcetree
+cask tableplus
+cask typora
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask zeplin
 
 # App Store applications
 appstore 1287445660 Agenda (6.0.1)
